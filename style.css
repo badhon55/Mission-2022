@@ -46,10 +46,9 @@ h2{
     margin-right: 300px;
 }
 .container{
-    width: 30%;
-    margin-left: 25px;
-    margin-right: 25px;
-    border-radius: 50px;
+    width: 30%;  
+    margin-right: 50px;
+    border-radius: 40px;
     padding: 40px;
 }
 h3{
@@ -66,4 +65,22 @@ h3{
 }
 #goals{
     background-color: #FFF4D6;
+}
+.develop{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+    padding-left: 10%;
+    padding-right: 15%; 
+}
+.develop-area{
+    width: 50%;
+    
+}
+.develop-area img {
+    width: 60%;
+}
+.develop-area h2 {
+    text-align: left;
 }
