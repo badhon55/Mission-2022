@@ -79,8 +79,52 @@ h3{
     
 }
 .develop-area img {
-    width: 60%;
+    width: 70%;
 }
 .develop-area h2 {
     text-align: left;
+}
+.community{
+    padding-left: 10%;
+    padding-right: 15%; 
+}
+.community-area{
+    width: 50%;
+}
+.community-area img{
+    width: 80%;
+    padding-left: 20%;
+}
+.skillsets{
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+.skillsets-area{
+   width: 50%;
+   box-shadow: 10px 10px 40px grey;
+   margin-left: 5%;
+   margin-right: 5%;
+   margin-top: 80px;
+   padding-left: 20px;
+   border-radius: 5px;
+}
+#html{
+    border-left: 10px solid;
+    border-image: linear-gradient(#7F7FD5,#86A8E7,#91EAE4) ;
+    border-image-slice: 1;
+}
+#css{
+    border-left: 10px solid;
+    border-image: linear-gradient(#7F00FF,#E100FF) ;
+    border-image-slice: 1;
+}
+.red-color{
+    color: red;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 20px;  
 }
